@@ -1,7 +1,7 @@
 # What is Proton Mail?
 
 
-[![what is proton mail](redd.png)](https://github.com/websitetech/what.is.proton.mail)
+[![what is proton mail](redd.png)](https://icncomputer.com/what-is-proton-mail/)
 
 
 
